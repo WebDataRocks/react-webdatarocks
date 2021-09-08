@@ -4,7 +4,7 @@ This repository contains the source code of the React module for WebDataRocks. U
 
 ## <a name="usage"></a>Usage
 
-See the WebDataRocks' documentation for details on using the WebDataRocks React module: [Integration with React](https://www.webdatarocks.com/doc/integration-with-react/).
+Refer to the WebDataRocks' documentation for details on using the WebDataRocks React module: [Integration with React](https://www.webdatarocks.com/doc/integration-with-react/).
 
 ## <a name="sample-project"></a>Sample project
 
