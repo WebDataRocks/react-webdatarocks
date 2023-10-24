@@ -1,5 +1,5 @@
 {
-  "name": "react-webdatarocks",
+  "name": "@webdatarocks/react-webdatarocks",
   "version": "1.4.9",
   "license": "MIT",
   "description": "React 16.5+ Module for Flexmonster Pivot Table & Charts",
@@ -9,13 +9,13 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "webdatarocks": "1.4.9"
+    "@webdatarocks/webdatarocks": "1.4.9"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "webdatarocks": "1.4.9"
+    "@webdatarocks/webdatarocks": "1.4.9"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

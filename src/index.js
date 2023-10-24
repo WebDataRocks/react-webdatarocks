@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from "react";
-import WebDataRocks from "webdatarocks";
+import WebDataRocks from "@webdatarocks/webdatarocks";
 
 export class Pivot extends React.Component {
 

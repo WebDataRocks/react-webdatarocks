@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { useEffect, useRef, useImperativeHandle } from "react";
-import WebDataRocks from "webdatarocks";
+import WebDataRocks from "@webdatarocks/webdatarocks";
 
 export function Pivot(props, ref) {
     const webdatarocksRef = useRef()
