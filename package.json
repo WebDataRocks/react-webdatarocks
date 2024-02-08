@@ -2,7 +2,7 @@
   "name": "@webdatarocks/react-webdatarocks",
   "version": "1.4.13",
   "license": "MIT",
-  "description": "React 16.5+ Module for Flexmonster Pivot Table & Charts",
+  "description": "React wrapper for the WebDataRocks Pivot Table component",
   "main": "./build/index.js",
   "typings": "./build/index.d.ts",
   "peerDependencies": {
