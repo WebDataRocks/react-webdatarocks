@@ -9,13 +9,13 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "@webdatarocks/webdatarocks": "1.4.13"
+    "@webdatarocks/webdatarocks": "1.4.14"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "@webdatarocks/webdatarocks": "1.4.13"
+    "@webdatarocks/webdatarocks": "1.4.14"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
