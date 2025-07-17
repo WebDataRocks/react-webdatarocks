@@ -4,7 +4,7 @@ This repository contains the source code of the React wrapper for [WebDataRocks]
 
 ## Usage
 
-Refer to the WebDataRocks documentation for details on using the WebDataRocks React wrapper: [Integration with React](https://www.webdatarocks.com/doc/integration-with-react/).
+Refer to the WebDataRocks documentation for details on using the WebDataRocks React wrapper: [Integration with React](https://www.webdatarocks.com/doc/react/how-to-start-online-reporting/).
 
 ## Sample project
 
