@@ -11,6 +11,10 @@ Refer to the WebDataRocks documentation for details on using the WebDataRocks Re
 
 Try our [sample WebDataRocks React project](https://github.com/WebDataRocks/pivot-react) to see an integration example.
 
+## License
+
+The WebDataRocks React wrapper is distributed under the terms and conditions of the WebDataRocks End User License Agreement: [https://www.webdatarocks.com/license-agreement/](https://www.webdatarocks.com/license-agreement/?r=wrap_react).
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
