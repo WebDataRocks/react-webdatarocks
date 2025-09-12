@@ -1,5 +1,9 @@
 # React wrapper for WebDataRocks
 [![WebDataRocks](https://cdn.webdatarocks.com/readmes/react.png)](https://www.webdatarocks.com/?r=wrap_react)
+Website: [webdatarocks.com](https://www.webdatarocks.com?r=wrap_react)
+
+[![NPM](https://img.shields.io/npm/v/@webdatarocks/react-webdatarocks)](https://www.npmjs.com/package/@webdatarocks/react-webdatarocks)
+[![Github Stars](https://img.shields.io/github/stars/webdatarocks?style=social)](https://github.com/webdatarocks) [![Twitter](https://img.shields.io/twitter/follow/WebDataRocks?style=social)](https://twitter.com/WebDataRocks)
 
 This repository contains the source code of the React wrapper for [WebDataRocks](https://www.webdatarocks.com/?r=wrap_react). Use the wrapper to integrate WebDataRocks into [React](https://react.dev/) applications.
 
