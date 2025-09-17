@@ -41,7 +41,7 @@
     "url": "https://github.com/WebDataRocks/react-webdatarocks"
   },
   "bugs": {
-    "url": "https://www.webdatarocks.com/forum/"
+    "url": "https://github.com/WebDataRocks/web-pivot-table/issues"
   },
   "homepage": "https://www.webdatarocks.com/",
   "devDependencies": {
