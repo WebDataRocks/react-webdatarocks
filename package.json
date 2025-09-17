@@ -43,7 +43,7 @@
   "bugs": {
     "url": "https://github.com/WebDataRocks/web-pivot-table/issues"
   },
-  "homepage": "https://www.webdatarocks.com/",
+  "homepage": "https://www.webdatarocks.com",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
