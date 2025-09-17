@@ -1,6 +1,6 @@
 {
   "name": "@webdatarocks/react-webdatarocks",
-  "version": "1.4.20",
+  "version": "1.4.21",
   "license": "https://webdatarocks.com/license-agreement/",
   "description": "React wrapper for the WebDataRocks Pivot Table component",
   "main": "./build/index.js",
